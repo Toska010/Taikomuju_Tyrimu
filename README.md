@@ -1,1 +1,0 @@
-# Taikomuju_Tyrimu
