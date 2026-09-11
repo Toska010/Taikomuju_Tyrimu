@@ -1,0 +1,6 @@
+dc Desktop
+cd Taikomuju_Tyrimu
+git init
+git remote add origin https://github.com/Toska010/Taikomuju_Tyrimu.git
+git branch -M main
+git pull origin main
